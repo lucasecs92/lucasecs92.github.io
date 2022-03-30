@@ -4,6 +4,6 @@
 
 <ul>
     <li>
-    <a href="https://lucasecs92.github.io/projeto-android/">Projeto Android</a>
+    <a href="https://lucasecs92.github.io/projeto-android/" target="_blank">Projeto Android</a>
     </li>
 </ul>
