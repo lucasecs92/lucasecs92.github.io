@@ -1,13 +1,7 @@
+![vinyltocat](https://user-images.githubusercontent.com/102336205/198376198-bd4f5890-e69d-46af-a775-6b0e773b9141.png)
+
 # lucasecs92.github.io
- Página do perfil
+#### Página do perfil
 
-
-<ul>
-    <li>
-    <a href="https://lucasecs92.github.io/projeto-android/" target="_blank">Projeto Android</a>
-    </li>
-    <li>
-    <a href="https://lucasecs92.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a>
-    </li>
-</ul>
-
+* [Projeto Android](https://lucasecs92.github.io/projeto-android/)
+* [Projeto Cordel](https://lucasecs92.github.io/projeto-cordel/)
