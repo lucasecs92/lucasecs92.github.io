@@ -2,7 +2,7 @@
 
 # lucasecs92.github.io
 
-:technologist: :monkey:
+:technologist: :monkey_face:
 * Técnico de TI 
 * Atualmente estudando desenvolvimento Front-end
 
