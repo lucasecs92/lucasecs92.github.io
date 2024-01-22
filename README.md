@@ -9,7 +9,7 @@
 #### Página do perfil
 
 
-- [Portfólio](https://lucasecs92.github.io/projeto-android/](https://portfolio-lucas-frontend.vercel.app/)
+- [Portfólio](https://portfolio-lucas-frontend.vercel.app/)
 * [Projeto Android](https://lucasecs92.github.io/projeto-android/)
 * [Projeto Cordel](https://lucasecs92.github.io/projeto-cordel/)
 * [Projeto Redes Sociais](https://lucasecs92.github.io/projeto-redes-sociais/)
