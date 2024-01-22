@@ -13,6 +13,7 @@
 * [Projeto Book Store](https://bookstore-l.vercel.app/)
 * [Projeto Weather App](https://weather-l.vercel.app/)
 * [Projeto To Do List](https://todolist-l.vercel.app/)
+* [Projeto Jogo Número Secreto](https://jogo-numero-secreto-l.vercel.app/)
 * [Projeto Android](https://lucasecs92.github.io/projeto-android/)
 * [Projeto Cordel](https://lucasecs92.github.io/projeto-cordel/)
 * [Projeto Redes Sociais](https://lucasecs92.github.io/projeto-redes-sociais/)
