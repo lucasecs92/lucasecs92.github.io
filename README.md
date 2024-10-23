@@ -4,7 +4,7 @@
 
 :technologist: :monkey_face:
 * Técnico de TI 
-* Atualmente estudando tecnologias Front-end
+* Desenvolvedor Front-end
 
 #### Página do perfil
 
