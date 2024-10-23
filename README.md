@@ -4,7 +4,15 @@
 * Técnico de TI 
 * Desenvolvedor Front-end
 
-#### Página do perfil
+### Habilidades e Ferramentas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,figma,vue,vite,nextjs,vercel&theme=light&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,vscode,npm,yarn,notion,materialui,discord,gimp&theme=light&perline=11" />
+  </a>
+</p>
+
+### Projetos
 
 * [Meu Portfólio](https://portfolio-devlucas.vercel.app/)
 * [Projeto Book Store](https://bookstore-l.vercel.app/)
