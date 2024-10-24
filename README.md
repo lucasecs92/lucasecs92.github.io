@@ -12,6 +12,7 @@
 **Projetos**
 
 * [Meu Portfólio](https://portfolio-devlucas.vercel.app/)
+* [Projeto ChatBot](https://basicchatgpt.vercel.app/)
 * [Projeto Book Store](https://bookstore-l.vercel.app/)
 * [Projeto Weather App](https://weather-l.vercel.app/)
 * [Projeto To Do List](https://todolist-l.vercel.app/)
