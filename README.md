@@ -1,18 +1,15 @@
-# lucasecs92.github.io
+## Hello there, my name is Lucas Eduardo
+<br>
 
-:technologist: :monkey_face:
-* Técnico de TI 
-* Desenvolvedor Front-end
+* :technologist: &nbsp; Técnico de TI
+* :eye: &nbsp; Desenvolvedor Front-end
+<br>
 
-### Habilidades e Ferramentas
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,figma,vue,vite,nextjs,vercel&theme=light&perline=11" />
-    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,vscode,npm,yarn,notion,materialui,discord,gimp&theme=light&perline=11" />
-  </a>
-</p>
+**Technologies and Tools**
 
-### Projetos
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,figma,vue,vite,nextjs,vercel,git,github,linux,ubuntu,windows,vscode,npm,yarn,notion,materialui,discord,gimp&theme=light&perline=11)](https://skillicons.dev)
+
+**Projetos**
 
 * [Meu Portfólio](https://portfolio-devlucas.vercel.app/)
 * [Projeto Book Store](https://bookstore-l.vercel.app/)
