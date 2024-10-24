@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,figma,vue,vite,nextjs,vercel,git,github,linux,ubuntu,windows,vscode,npm,yarn,notion,materialui,discord&theme=light&perline=11)](https://skillicons.dev)
 
-### :construction: &nbsp; Projects
+### :rocket: &nbsp; Projects
 
 * [Meu Portfólio](https://portfolio-devlucas.vercel.app/)
 * [ChatBot](https://basicchatgpt.vercel.app/)
