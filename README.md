@@ -1,14 +1,12 @@
 ## Hello there, my name is Lucas Eduardo
-<br>
 
 * :technologist: &nbsp; IT support technician
 * :eye: &nbsp; Front-end Developer
-<br>
 
 ### :books: &nbsp; Technologies and Tools
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,figma,vue,vite,nextjs,vercel,git,github,linux,ubuntu,windows,vscode,npm,yarn,notion,materialui,discord,gimp&theme=light&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,sass,figma,vue,vite,nextjs,vercel,git,github,linux,ubuntu,windows,vscode,npm,yarn,notion,materialui,discord&theme=light&perline=11)](https://skillicons.dev)
 
 ### :construction: &nbsp; Projects
 
